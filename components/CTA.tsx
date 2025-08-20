@@ -19,4 +19,4 @@ const Cta = () => {
         </section>
     )
 }
-export default Cta
+export default Cta;
