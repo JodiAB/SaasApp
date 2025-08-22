@@ -1,3 +1,18 @@
+A modern LMS SaaS platform built with Next.js, Supabase, and Stripe, featuring secure authentication, subscription management, and real-time learning experiences. The app also integrates Vapi’s AI voice agent to enable interactive, conversational tutoring sessions.
+
+Built with Next.js 15 and TypeScript for scalability and performance.
+
+Integrated Clerk for authentication, subscriptions, and user management.
+
+Implemented Supabase for real-time database, storage, and session handling.
+
+Added Vapi AI voice agent for interactive tutoring with speech-to-text and text-to-speech.
+
+Used shadcn/ui with TailwindCSS for a modern, responsive UI.
+
+Error tracking and performance monitoring with Sentry.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
